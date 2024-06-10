@@ -3,3 +3,5 @@ Initial text
 Here is text #1.
 
 Feature text: Hello!
+
+Text from fork.
