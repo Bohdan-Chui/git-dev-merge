@@ -5,3 +5,4 @@ Here is text #1.
 Feature text: Hello!
 
 Text from fork.
+One more fork text.
